@@ -51,3 +51,5 @@ function solution(roman) {
   
   return sum;
 }
+
+// or
